@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  <rect x="50" y="50" width="700" height="500" fill="#e9ecef" stroke="#15803d" stroke-width="2"/>
+  <rect x="450" y="50" width="300" height="250" fill="#d1e7dd" stroke="#15803d" stroke-width="2"/>
+  <rect x="450" y="300" width="300" height="250" fill="#d1e7dd" stroke="#15803d" stroke-width="2"/>
+  <text x="400" y="300" font-family="Arial" font-size="24" fill="#15803d" text-anchor="middle">2 Bedroom Apartment</text>
+  <text x="400" y="330" font-family="Arial" font-size="18" fill="#15803d" text-anchor="middle">850 sq ft</text>
+</svg> 
