@@ -132,7 +132,7 @@ export default function Page() {
           Things you need <span style={{ color: 'rgb(13,134,44)' }}>to do</span>
         </h2>
         <p className="text-gray-700 mb-10 text-center max-w-xl">
-          We ensure that you'll embark on a perfectly planned, safe vacation at a price you can afford.
+          We ensure that you&apos;ll embark on a perfectly planned, safe vacation at a price you can afford.
         </p>
         <div className="flex flex-col md:flex-row gap-8 w-full justify-center">
           {/* Card 1 */}
